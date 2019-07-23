@@ -1,0 +1,216 @@
+I-Logix-RPY-Archive version 8.13.0 * 9794446
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 9;
+	- value = "stdtype\\std_type.h" 5.19.2017::14:29:7
+	"verbose\\verbose.h" 4.10.2017::20:5:17
+	"xml_parser\\lwxmlp_core.c" 5.19.2017::14:29:7
+	"xml_parser\\lwxmlp_encoding.c" 5.19.2017::14:29:7
+	"xml_parser\\private_headers\\lwxmlp_private_types.h" 5.19.2017::14:29:7
+	"xml_parser\\public_headers\\lwxmlp_core.h" 5.19.2017::14:29:7
+	"xml_parser\\public_headers\\lwxmlp_encoding.h" 5.19.2017::14:29:7
+	"xml_parser\\public_headers\\lwxmlp_fcfg.h" 5.19.2017::14:29:7
+	"xml_parser\\public_headers\\lwxmlp_types.h" 5.19.2017::14:29:7
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 6;
+	- value = "GUID 022438ba-91e6-4c2c-b9bd-27f67c64ba4e" "GUID 115bdc08-64df-42c6-8a04-132f8a64e32b"
+	"GUID 115bdc08-64df-42c6-8a04-132f8a64e32b" "GUID acccfe4f-e95e-400a-8185-df8118db24dd"
+	"GUID 2f61101c-ceb9-4c7e-9b88-0a43ee20584c" "GUID 115bdc08-64df-42c6-8a04-132f8a64e32b"
+	"GUID 90ace5bb-8712-4487-9ce5-176c32d983b7" "GUID acccfe4f-e95e-400a-8185-df8118db24dd"
+	"GUID 99a43dfd-229e-4e8d-9002-fdb9a4618e34" "GUID acccfe4f-e95e-400a-8185-df8118db24dd"
+	"GUID cc52fde0-b82a-45af-a0ff-5d4d1e852e60" "GUID acccfe4f-e95e-400a-8185-df8118db24dd"
+	
+}
+- size = 21;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Verbose.sbs";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "Verbose";
+	- _id = GUID cc52fde0-b82a-45af-a0ff-5d4d1e852e60;
+}
+- genTime = 5.19.2017::14:29:7;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Private_Headers.sbs";
+	- _subsystem = "XML_Parser";
+	- _class = "";
+	- _name = "Private_Headers";
+	- _id = GUID 2f61101c-ceb9-4c7e-9b88-0a43ee20584c;
+}
+- genTime = 5.19.2017::14:29:7;
+- hElement = { IHandle 
+	- _m2Class = "IFolder";
+	- _filename = "component_0.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "component_0\\Files";
+	- _id = GUID 552bae27-df80-41a5-a40e-f910993bd900;
+}
+- genTime = 5.19.2017::14:29:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Public_Headers.sbs";
+	- _subsystem = "XML_Parser::Public_Headers";
+	- _class = "TopLevel";
+	- _name = "LwXMLP_ENCODING";
+	- _id = GUID 1b53b893-4b17-4e4f-a000-8f07d24c3baa;
+}
+- genTime = 5.19.2017::14:29:7;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Public_Headers.sbs";
+	- _subsystem = "XML_Parser::Public_Headers";
+	- _class = "TopLevel";
+	- _name = "LwXMLP_TYPES";
+	- _id = GUID dee8dd3d-c517-4ba7-b71a-9fc25266118d;
+}
+- genTime = 5.19.2017::14:29:7;
+- hElement = { IHandle 
+	- _m2Class = "IFile";
+	- _filename = "component_0.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "component_0\\Files\\ctype";
+	- _id = GUID b650e9af-ab6d-4d7a-b208-a95adc947261;
+}
+- genTime = 5.19.2017::14:29:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Public_Headers.sbs";
+	- _subsystem = "XML_Parser::Public_Headers";
+	- _class = "TopLevel";
+	- _name = "LwXMLP_FCFG";
+	- _id = GUID 57ddee6a-717b-419c-97cd-041c114dff06;
+}
+- genTime = 5.19.2017::14:29:7;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "StdType.sbs";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "StdType";
+	- _id = GUID 90ace5bb-8712-4487-9ce5-176c32d983b7;
+}
+- genTime = 5.19.2017::14:29:7;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "XML_Parser.sbs";
+	- _subsystem = "XML_Parser";
+	- _class = "TopLevel";
+	- _name = "LwXMLP_ENCODING";
+	- _id = GUID 0e97f2f2-7e60-4ff8-ab6c-403f0f08fd58;
+}
+- genTime = 5.19.2017::14:29:7;
+- hElement = { IHandle 
+	- _m2Class = "IProject";
+	- _filename = "";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "Project";
+	- _id = GUID acccfe4f-e95e-400a-8185-df8118db24dd;
+}
+- genTime = 5.19.2017::14:29:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "StdType.sbs";
+	- _subsystem = "StdType";
+	- _class = "TopLevel";
+	- _name = "STD_TYPE";
+	- _id = GUID 499fe906-62a6-475b-b357-c54dfd8ceb70;
+}
+- genTime = 5.19.2017::14:29:7;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _filename = "";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "";
+	- _id = GUID 3cdba32a-3890-47a3-b7cd-78daf3c137c7;
+}
+- genTime = 5.19.2017::14:29:6;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "XML_Parser.sbs";
+	- _subsystem = "XML_Parser";
+	- _class = "TopLevel";
+	- _name = "LwXMLP_CORE";
+	- _id = GUID a5e040a8-da18-4a34-8583-2b4b10757a96;
+}
+- genTime = 5.19.2017::14:29:7;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "XML_Parser.sbs";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "XML_Parser";
+	- _id = GUID 115bdc08-64df-42c6-8a04-132f8a64e32b;
+}
+- genTime = 5.19.2017::14:29:7;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = "component_0.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "component_0\\DefaultConfig";
+	- _id = GUID 2074dedf-58bd-4c9d-a5bf-37971f56b3ab;
+}
+- genTime = 5.19.2017::14:29:7;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Public_Headers.sbs";
+	- _subsystem = "XML_Parser::Public_Headers";
+	- _class = "TopLevel";
+	- _name = "LwXMLP_CORE";
+	- _id = GUID 6dc91aec-8de5-4fc3-8332-0ae7f5820e76;
+}
+- genTime = 5.19.2017::14:29:7;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Private_Headers.sbs";
+	- _subsystem = "XML_Parser::Private_Headers";
+	- _class = "TopLevel";
+	- _name = "LwXMLP_PRIVATE_TYPES";
+	- _id = GUID d3bef855-2773-4a37-9d68-34165bff4b90;
+}
+- genTime = 5.19.2017::14:29:7;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _filename = "";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "";
+	- _id = GUID 3fec4c76-dfa7-42cf-ac5f-3e81c44a0e87;
+}
+- genTime = 5.19.2017::14:29:6;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Public_Headers.sbs";
+	- _subsystem = "XML_Parser";
+	- _class = "";
+	- _name = "Public_Headers";
+	- _id = GUID 022438ba-91e6-4c2c-b9bd-27f67c64ba4e;
+}
+- genTime = 5.19.2017::14:29:7;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Verbose.sbs";
+	- _subsystem = "Verbose";
+	- _class = "TopLevel";
+	- _name = "Verbose";
+	- _id = GUID 33d10e39-e4c3-4111-a43e-56365c72a08e;
+}
+- genTime = 5.19.2017::14:29:7;
+- hElement = { IHandle 
+	- _m2Class = "IFile";
+	- _filename = "component_0.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "component_0\\Files\\string";
+	- _id = GUID 09588e9f-4ae0-446f-bb96-91a64cccde43;
+}
+- genTime = 5.19.2017::14:29:6;
+
