@@ -15,5 +15,5 @@ The LwXMLP features:
 
 *** Resources ***
 - Firmware Mine Website (https://firmwaremine.com/)
-- LwXMLP Manual(https://firmwaremine.com/LWXML_DOXY/)
-- LwXMLP API Reference (https://firmwaremine.com/LWXML_DOXY/)
+- LwXMLP Manual(https://firmwaremine.com/lwxmlp_doxy/)
+- LwXMLP API Reference (https://firmwaremine.com/lwxmlp_doxy/)
