@@ -1,31 +1,27 @@
 /*
 ***********************************************************************************************************************
-*                                               ATI Systems, Inc.
+*                                               Firmware Mine
 *
-*                                     (c) Copyright 2013, ATI Systems, Inc.
+*                                     (c) Copyright 2013-2018, Firmware Mine.
 *
-* All rights reserved. Company Name's source code is an unpublished work and the include of a copyright notice does not
-* imply otherwise. This source code contains confidential, trade secret material of ATI Systems, Inc. Any attempt or
-* participation in deciphering, decoding, reverse engineering or in any way altering the source code is strictly
-* prohibited, unless the prior written consent of Company Name is obtained.
+* All rights reserved. This program is open source software: you can redistribute it and/or modify it under the terms
+* of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or
+* (at your option) any later version.
 *
-* Filename         : VERBOSE.c
-* Version          : 0.0.0
-* Created          : 2014/03/24
-* File Description : this is the core module of VERBOSE that will hold all the basic functionalities of the module
-* Modifications    :
-* Author: Mohamed Fawzy     Date:2014/03/24                  Rev:0                  Task ID:
-* - Created File structure templates according to the General Requirement of Embedded Software Modules document
-*   (ESWM SRS).
-* Author:                   Date:                            Rev:                   Task ID:
-* - list the modifications here
-* - list the modifications here
-* - list the modifications here
-***********************************************************************************************************************
+* Alternatively, this program may be distributed and modified under the terms of Firmware Mine commercial licenses,
+* which expressly supersede the GNU General Public License and are specifically designed for licensees interested in
+* retaining the proprietary status of their code.
 *
-***********************************************************************************************************************
-*/
-
+* This program is distributed in the hope that it will be useful,but WITHOUT ANY WARRANTY; without even the implied
+* warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+*
+* You should have received a copy of the GNU General Public License along with this program. If not,
+* see "www.gnu.org/licenses/".
+*
+* Contact information:
+* firmwaremine.com
+* mailto:support@firmwaremine.com
+***********************************************************************************************************************/
 
 
 
@@ -71,7 +67,7 @@
  *                                                  Application Include
  ==================================================================================================================
  */
-
+#include "STD_TYPE.h"
 #include "VERBOSE.h"
 
 /*
