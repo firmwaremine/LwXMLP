@@ -17,15 +17,14 @@ jobs:
     - name: Install Doxygen
       run: sudo apt-get install doxygen -y
       shell: bash
-      
-    - run: cd Doxygen
-    - run: ls
 
     - name: Generate Doxygen Documentation
+      working-directory: ./Doxygen
       run: doxygen DoxyFile
       shell: bash
       
     - name: Create .nojekyll (ensures pages with underscores work on gh pages)
+      working-directory: ./Doxygen
       run: touch html/.nojekyll
       shell: bash
 
@@ -34,4 +33,4 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: gh-pages
-        folder: html
+        folder: Doxygen/html
