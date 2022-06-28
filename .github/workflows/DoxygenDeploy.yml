@@ -19,6 +19,7 @@ jobs:
       shell: bash
       
     - run: cd Doxygen
+    - run: ls
 
     - name: Generate Doxygen Documentation
       run: doxygen DoxyFile
