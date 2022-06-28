@@ -1,0 +1,14 @@
+digraph "LwXMLP" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_96e336c3c6e7cff8ac7fc49ddb494e69 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_96e336c3c6e7cff8ac7fc49ddb494e69.html"];
+    dir_96e336c3c6e7cff8ac7fc49ddb494e69 [shape=plaintext label="LwXMLP"];
+    dir_302a6c1e39f497f2400c4a31eb09d54e [shape=box label="StdType" color="black" fillcolor="white" style="filled" URL="dir_302a6c1e39f497f2400c4a31eb09d54e.html"];
+    dir_ebd86065482a4d0dafa6096767bfb3e0 [shape=box label="Verbose" color="black" fillcolor="white" style="filled" URL="dir_ebd86065482a4d0dafa6096767bfb3e0.html"];
+    dir_8095c46b9976772c7fc6dc946e45dc36 [shape=box label="XML_Parser" color="red" fillcolor="white" style="filled" URL="dir_8095c46b9976772c7fc6dc946e45dc36.html"];
+  }
+  dir_8095c46b9976772c7fc6dc946e45dc36->dir_ebd86065482a4d0dafa6096767bfb3e0 [headlabel="2", labeldistance=1.5 headhref="dir_000001_000005.html"];
+  dir_8095c46b9976772c7fc6dc946e45dc36->dir_302a6c1e39f497f2400c4a31eb09d54e [headlabel="2", labeldistance=1.5 headhref="dir_000001_000004.html"];
+}

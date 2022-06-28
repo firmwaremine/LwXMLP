@@ -22,4 +22,6 @@ for the JavaScript code in this file
 */
 var menudata={children:[
 {text:"Firmware Mine Home",url:"https://firmwaremine.com"},
-{text:"DOC Home",url:"index.html"}]}
+{text:"DOC Home",url:"index.html"},
+{text:"Data Structures",url:"annotated.html"},
+{text:"File List",url:"files.html"}]}

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>My Project: Light Weight XML Parser (LwXMLP) Library</title>
+<title>My Project: StdType Directory Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -45,7 +45,6 @@ $(function() {
 });
 /* @license-end */</script>
 <div id="main-nav"></div>
-</div><!-- top -->
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
      onmouseover="return searchBox.OnSearchSelectShow()"
@@ -60,43 +59,23 @@ $(function() {
 </iframe>
 </div>
 
-<div class="PageDoc"><div class="header">
+<div id="nav-path" class="navpath">
+  <ul>
+<li class="navelem"><a class="el" href="dir_96e336c3c6e7cff8ac7fc49ddb494e69.html">LwXMLP</a></li><li class="navelem"><a class="el" href="dir_302a6c1e39f497f2400c4a31eb09d54e.html">StdType</a></li>  </ul>
+</div>
+</div><!-- top -->
+<div class="header">
   <div class="headertitle">
-<div class="title">Light Weight XML Parser (LwXMLP) Library </div>  </div>
+<div class="title">StdType Directory Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><h1><a class="anchor" id="intro_sec"></a>
-Introduction</h1>
-<ul>
-<li>This is the help for the LwXMLP library which describe all the interfaces to the library.</li>
-</ul>
-<h1><a class="anchor" id="feature_sec"></a>
-Features</h1>
-<ul>
-<li>It is a non-validating XML processor.</li>
-<li>It is C language based library.</li>
-<li>The library is made for the embedded systems which has a limited resource in the code/data area.</li>
-<li>It follows all the requirements provided by the W3C (check the LwXMLP test tool and W3C compliance matrix).</li>
-<li>It targets the embedded system area with many limitations on the code, data and processing speed.</li>
-<li>It is online streaming processor (incremental processor) such that it can generate correct partial output from partial input and this gives a degree of freedom on the XML document size, i.e. there is no restriction on the XML document size.</li>
-<li>It is SAX or event-based processor. Such that it reads an XML document from beginning to end, and each time it encounters a syntax construction, it notifies the application that is running it, and the application must implement the appropriate methods to handle the callbacks and get the functionality needed.</li>
-<li>It can receive the XML document from different stream type like file stream and IP stream (TCP/UDP), serial communication, so on.</li>
-<li>The code/data size can be customize to enable/disable some of the feature on the expense of the code/data size using some macro definitions.</li>
-<li>Thread-safe (more precisely: reentrant).</li>
-<li>Support two models of memory allocation, static memory allocation and dynamic memory allocation.</li>
-<li>The LWXML processor shall be able to detect the xml fetal errors which will cause the reporting for the error type and the XML line where the error is occurred then it will cause the termination for reading process.</li>
-<li>Supports only for encoding types UTF-8, UTF-16BE and UTF-16LE.</li>
-<li>It complies with MISRA-2012 (Check Compliance matrix). </li>
-</ul>
-<h1><a class="anchor" id="limitation_sec"></a>
-limitation</h1>
-<ul>
-<li>No support for XML namespaces.</li>
-<li>The interface of the parser does not conform to DOM specification.</li>
-<li>Can not decide if the document as a whole is valid or well-formed but it is validating in a portion bases.</li>
-<li>Can not generate an error for empty (no root) XML document due to the LwXMLP mechanism which parse the document partially not as a whole. </li>
-</ul>
-</div></div><!-- PageDoc -->
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="files"></a>
+Files</h2></td></tr>
+<tr class="memitem:_s_t_d___t_y_p_e_8h"><td class="memItemLeft" align="right" valign="top">file &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_s_t_d___t_y_p_e_8h.html">STD_TYPE.h</a> <a href="_s_t_d___t_y_p_e_8h_source.html">[code]</a></td></tr>
+<tr class="memdesc:_s_t_d___t_y_p_e_8h"><td class="mdescLeft">&#160;</td><td class="mdescRight">This file contains the redefinition for the standard types. <br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
 </div><!-- contents -->
 <!-- HTML footer for doxygen 1.8.15-->
 <!-- start footer part -->

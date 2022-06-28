@@ -1,0 +1,11 @@
+digraph "Private_Headers" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_8095c46b9976772c7fc6dc946e45dc36 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="XML_Parser" fontname="Helvetica", fontsize="10", URL="dir_8095c46b9976772c7fc6dc946e45dc36.html"]
+  dir_1ed9b03147d2a9b083fdecba41e1f286 [shape=box, label="Private_Headers", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_1ed9b03147d2a9b083fdecba41e1f286.html"];
+  }
+  dir_5972d9f98ba393c5dafcce8430403af1 [shape=box label="Public_Headers" URL="dir_5972d9f98ba393c5dafcce8430403af1.html"];
+  dir_1ed9b03147d2a9b083fdecba41e1f286->dir_5972d9f98ba393c5dafcce8430403af1 [headlabel="2", labeldistance=1.5 headhref="dir_000003_000002.html"];
+}
