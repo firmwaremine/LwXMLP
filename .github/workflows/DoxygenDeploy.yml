@@ -12,6 +12,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
       
+    - run: sudo apt-add-repository universe  
     - run: sudo apt update
 
     - name: Install Doxygen
