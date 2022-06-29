@@ -1,8 +1,8 @@
 <map id="LwXMLP_TYPES.h" name="LwXMLP_TYPES.h">
-<area shape="rect" id="node1" title="This is the header file contain the global data types." alt="" coords="90,5,225,32"/>
-<area shape="rect" id="node2" href="$_lw_x_m_l_p___c_o_r_e_8h.html" title="This header file contain all the global definitions for the LwXMLP_CORE." alt="" coords="5,80,136,107"/>
-<area shape="rect" id="node4" href="$_lw_x_m_l_p___e_n_c_o_d_i_n_g_8h.html" title="This header file contain all the global definitions for the LwXMLP_ENCODING." alt="" coords="161,80,327,107"/>
-<area shape="rect" id="node3" href="$_lw_x_m_l_p___c_o_r_e_8c.html" title="This is a source code file for the LwXMLP module which contain all the core API." alt="" coords="57,229,188,256"/>
-<area shape="rect" id="node5" href="$_lw_x_m_l_p___e_n_c_o_d_i_n_g_8c.html" title="This is a source code file for the different encoding schemes." alt="" coords="160,155,325,181"/>
-<area shape="rect" id="node6" href="$_lw_x_m_l_p___p_r_i_v_a_t_e___t_y_p_e_s_8h.html" title="This header file contain all the private types definitions for the LwXMLP_CORE which will be converte..." alt="" coords="349,155,544,181"/>
+<area shape="rect" id="node1" title="This is the header file contain the global data types." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node2" href="$_lw_x_m_l_p___c_o_r_e_8h.html" title="This header file contain all the global definitions for the LwXMLP_CORE." alt="" coords="210,229,341,256"/>
+<area shape="rect" id="node4" href="$_lw_x_m_l_p___e_n_c_o_d_i_n_g_8h.html" title="This header file contain all the global definitions for the LwXMLP_ENCODING." alt="" coords="152,80,319,107"/>
+<area shape="rect" id="node3" href="$_lw_x_m_l_p___c_o_r_e_8c.html" title="This is a source code file for the LwXMLP module which contain all the core API." alt="" coords="313,304,443,331"/>
+<area shape="rect" id="node5" href="$_lw_x_m_l_p___e_n_c_o_d_i_n_g_8c.html" title="This is a source code file for the different encoding schemes." alt="" coords="50,155,215,181"/>
+<area shape="rect" id="node6" href="$_lw_x_m_l_p___p_r_i_v_a_t_e___t_y_p_e_s_8h.html" title="This header file contain all the private types definitions for the LwXMLP_CORE which will be converte..." alt="" coords="239,155,434,181"/>
 </map>
