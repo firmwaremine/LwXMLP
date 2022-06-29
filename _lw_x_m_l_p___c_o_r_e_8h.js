@@ -1,0 +1,26 @@
+var _lw_x_m_l_p___c_o_r_e_8h =
+[
+    [ "LwXMLP_MODULE_CUSTOM", "_lw_x_m_l_p___c_o_r_e_8h.html#aaa401b2618e772628a7c62163d6059f2", null ],
+    [ "LwXMLP_MODULE_MAJOR", "_lw_x_m_l_p___c_o_r_e_8h.html#a3e7a62861f48a650fc81cdd924fa176b", null ],
+    [ "LwXMLP_MODULE_MINOR", "_lw_x_m_l_p___c_o_r_e_8h.html#ab2834bc4a7cc9ff9cd27c80baba8e414", null ],
+    [ "LwXMLP_mVerbose", "_lw_x_m_l_p___c_o_r_e_8h.html#abb4f99516c2c3fdf3f5f7b9a21c39156", null ],
+    [ "LwXMLP_enumGetError", "_lw_x_m_l_p___c_o_r_e_8h.html#a11aad004fb2e677fbeebe403bcd3483a", null ],
+    [ "LwXMLP_enumGetXMLEventType", "_lw_x_m_l_p___c_o_r_e_8h.html#a8242297995be0d15dc289503bf8e4053", null ],
+    [ "LwXMLP_enumXMLParserEngine", "_lw_x_m_l_p___c_o_r_e_8h.html#ae98aa4201c4b5e5238b52012ff83fbe5", null ],
+    [ "LwXMLP_ps8GetErrorString", "_lw_x_m_l_p___c_o_r_e_8h.html#a9007209d4150e430f4b9431735bb78a3", null ],
+    [ "LwXMLP_pu8GetAttributeName", "_lw_x_m_l_p___c_o_r_e_8h.html#a1db2a7793d96f8ca06fff70ee2712c78", null ],
+    [ "LwXMLP_pu8GetAttributeValue", "_lw_x_m_l_p___c_o_r_e_8h.html#a84ea0d32b847a851c68633d541a46eb2", null ],
+    [ "LwXMLP_pu8GetCurrentPath", "_lw_x_m_l_p___c_o_r_e_8h.html#aca3b712a196341cfeacaee7ce0c5cf90", null ],
+    [ "LwXMLP_pu8GetElementName", "_lw_x_m_l_p___c_o_r_e_8h.html#ab29abe5d08d06edc128dd787c3843dd0", null ],
+    [ "LwXMLP_pu8GetParsedComment", "_lw_x_m_l_p___c_o_r_e_8h.html#aab5638c95fa3739a778a68797cde6df3", null ],
+    [ "LwXMLP_pu8GetParsedNotation", "_lw_x_m_l_p___c_o_r_e_8h.html#af3550fa15e6f44a4c4c567ad01a31302", null ],
+    [ "LwXMLP_pu8GetParsedPIData", "_lw_x_m_l_p___c_o_r_e_8h.html#a1c98dbc48d5298600ca101ec5e7cc641", null ],
+    [ "LwXMLP_pu8GetParsedPITarget", "_lw_x_m_l_p___c_o_r_e_8h.html#a0fdd1603ea2d07438fea41a00bef7c5c", null ],
+    [ "LwXMLP_pu8GetParsedText", "_lw_x_m_l_p___c_o_r_e_8h.html#a45afa1897fe0eb43b4ca91cbe85c8c1f", null ],
+    [ "LwXMLP_s16GetAttributeCount", "_lw_x_m_l_p___c_o_r_e_8h.html#ab62f2288f61935e62d3b2f967d9c3d6d", null ],
+    [ "LwXMLP_srCloseParser", "_lw_x_m_l_p___c_o_r_e_8h.html#aa3296e577e78c7e165eb032cc4801d42", null ],
+    [ "LwXMLP_u32AddXMLPortion", "_lw_x_m_l_p___c_o_r_e_8h.html#aeb5ecd0c96e03379e6af1d4dc8b3328d", null ],
+    [ "LwXMLP_u32GetCoulmnOfError", "_lw_x_m_l_p___c_o_r_e_8h.html#a159f51477a5827febc87d82aadc4ddf4", null ],
+    [ "LwXMLP_u32GetFreeSpace", "_lw_x_m_l_p___c_o_r_e_8h.html#ae9906dff6635704900123e11fdb500f2", null ],
+    [ "LwXMLP_u32GetLineOfError", "_lw_x_m_l_p___c_o_r_e_8h.html#ab2791884dd30f1d13a7b527ebf8e7565", null ]
+];
