@@ -11,9 +11,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
-
-    - name: Update
-      run: sudo apt-get update && sudo apt-get upgrade
+      
+    - run: apt-cache policy doxygen
 
     - name: Install Doxygen
       run: sudo apt-get install doxygen=1.9.4 -y
