@@ -15,6 +15,7 @@ jobs:
     - name: Install Doxygen
       run: |
         curl -o doxygen.tar.gz http://doxygen.nl/files/doxygen-1.9.4.linux.bin.tar.gz
+        file doxygen.tar.gz
         tar xvf doxygen.tar.gz
         cd doxygen-1.9.4
         chmod +x INSTALL
