@@ -27,6 +27,10 @@ SOFTWARE.
 
 */
 
+polygon {
+    fill: transparent;
+}
+
 html {
     /* primary theme color. This will affect the entire websites color scheme: links, arrows, labels, ... */
     --primary-color: #1779c4;
