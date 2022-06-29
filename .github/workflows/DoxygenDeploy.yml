@@ -12,11 +12,12 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
       
-    - run: apt-cache policy doxygen
-    - run: sudo apt-get upgrade && sudo apt-get update
+    - run: sudo apt update
 
     - name: Install Doxygen
-      run: sudo apt-get install doxygen=1.9.4 -y
+      run: sudo apt-get install doxygen -y
+      
+    - run: doxygen --version
     
     - name: Install Graphviz
       run: sudo apt install graphviz
