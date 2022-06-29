@@ -1,0 +1,6 @@
+<map id="LwXMLP_strXMLParseInstanceType" name="LwXMLP_strXMLParseInstanceType">
+<area shape="rect" id="node1" title="the XML parser instance which shall be created/allocated when the parser is started and it will be us..." alt="" coords="266,233,514,457"/>
+<area shape="rect" id="node2" href="$structstr_attribute_list_type.html" title="it the structure which hold the attributes name/behavior per element" alt="" coords="5,20,252,156"/>
+<area shape="rect" id="node3" href="$struct_lw_x_m_l__str_found_reference_type.html" title="it the structure which hold the found entity index and the corresponding type" alt="" coords="277,42,503,134"/>
+<area shape="rect" id="node4" href="$structstr_entity_type.html" title="it the structure which hold the entities" alt="" coords="527,5,754,171"/>
+</map>

@@ -1,7 +1,0 @@
-digraph "strAttributeListType"
-{
- // LATEX_PDF_SIZE
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  Node1 [label="{strAttributeListType\n|+ u8AttributeName\l+ u8ElementName\l+ u8AttributeValue\l+ objenumAttibuteTypeType\l+ objenumAttributeBehaviourType\l|}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="it the structure which hold the attributes name/behavior per element"];
-}
