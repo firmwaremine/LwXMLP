@@ -10,13 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
-      
-    - run: sudo apt-add-repository universe  
-    - run: sudo apt update
+      uses: actions/checkout@v3  
 
     - name: Install Doxygen
-      run: sudo apt-get install doxygen -y
+      run: |
+        curl https://www.doxygen.nl/files/doxygen-1.9.4.linux.bin.tar.gz
+        tar -xzvf doxygen-1.9.4.linux.bin.tar.gz
+        cd doxygen 1.9.4
+        chmod +x INSTALL
+        ./INSTALL
       
     - run: doxygen --version
     
