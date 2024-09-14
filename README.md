@@ -11,7 +11,7 @@ The LwXMLP features:
 -	Support two models of memory allocation, static memory allocation and dynamic memory allocation.
 -	The LWXML processor shall be able to detect the xml fetal errors which will cause the reporting for the error type and the XML line where the error is occurred then it will cause the termination for reading process. 
 -	Supports only for encoding types UTF-8, UTF-16BE and UTF-16LE.
--	It complies with MISRA-2012 (Check Compliance matrix).
+-	It complies with MISRA-2012 (Check Compliance matrix @ https://github.com/firmwaremine/LwXMLP/blob/master/MISRA%20Compliance/MISRA%20Complaince%20Matrix.pdf).
 
 *** Resources ***
 - Firmware Mine Website (https://firmwaremine.com/)
