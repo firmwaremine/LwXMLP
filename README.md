@@ -14,6 +14,6 @@ The LwXMLP features:
 -	It complies with MISRA-2012 (Check Compliance matrix @ https://github.com/firmwaremine/LwXMLP/blob/master/MISRA%20Compliance/MISRA%20Complaince%20Matrix.pdf).
 
 *** Resources ***
-- Firmware Mine Website (https://firmwaremine.com/)
+- FirmwareMine Website (https://firmwaremine.com/)
 - LwXMLP Manual(https://firmwaremine.com/lwxmlp_doxy/)
 - LwXMLP API Reference (https://firmwaremine.com/lwxmlp_doxy/)
